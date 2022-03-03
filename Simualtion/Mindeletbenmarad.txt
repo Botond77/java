@@ -1,0 +1,13 @@
+10
+Falank a 7
+Sudar1 d 6
+Sudar2 d 6
+Sudar3 d 6
+Sudar4 d 6
+Sudar5 d 6
+Sudar6 d 6
+Sudar7 d 6
+Sudar8 d 6
+Sudar9 d 6
+Sudar10 d 6
+1
