@@ -1,0 +1,1 @@
+javac beadando/PhaserExample.java beadando/Barbery.java beadando/Barber.java beadando/Client.java beadando/ServiceAborted.java beadando/Specialization.java beadando/Status.java && java beadando.PhaserExample
