@@ -1,0 +1,34 @@
+{
+  "Polygon0": {
+    "Size": "4",
+    "Line0": {"Line": {
+      "EndPos": "[ 585.0, 231.0, 0.0 ]",
+      "FillColor": "-12698050",
+      "Startpos": "[ 370.0, 231.0, 0.0 ]",
+      "Contour": "-16711419"
+    }},
+    "Line1": {"Line": {
+      "EndPos": "[ 585.0, 231.0, 0.0 ]",
+      "FillColor": "-12698050",
+      "Startpos": "[ 585.0, 231.0, 0.0 ]",
+      "Contour": "-16711419"
+    }},
+    "Line2": {"Line": {
+      "EndPos": "[ 551.0, 474.0, 0.0 ]",
+      "FillColor": "-12698050",
+      "Startpos": "[ 585.0, 231.0, 0.0 ]",
+      "Contour": "-16711419"
+    }},
+    "Line3": {"Line": {
+      "EndPos": "[ 551.0, 474.0, 0.0 ]",
+      "FillColor": "-12698050",
+      "Startpos": "[ 551.0, 474.0, 0.0 ]",
+      "Contour": "-16711419"
+    }}
+  },
+  "Line": {"Line": "-"},
+  "CatmullRomShape": {"CatmullRomShape": "-"},
+  "Circle": {"Circle": "-"},
+  "Rectangle": {"Rectangle": "-"},
+  "Polygon": {"Polygon": "0-0"}
+}
